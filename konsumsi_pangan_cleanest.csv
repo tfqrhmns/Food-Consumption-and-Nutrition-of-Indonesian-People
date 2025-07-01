@@ -1,0 +1,200 @@
+Kelompok Bahan Pangan,Komoditas,Konsumsi (g/kapita/hari),Tahun,Gizi
+Padi-padian,Beras,266.03,2018,Karbohidrat
+Padi-padian,Jagung,4.38,2018,Karbohidrat
+Padi-padian,Terigu,49.86,2018,Karbohidrat
+Umbi-umbian,Singkong,26.03,2018,Karbohidrat
+Umbi-umbian,Ubi Jalar,9.32,2018,Karbohidrat
+Umbi-umbian,Kentang,6.58,2018,Karbohidrat
+Umbi-umbian,Sagu,1.1,2018,Karbohidrat
+Umbi-umbian,Umbi Lainnya,1.92,2018,Karbohidrat
+Pangan Hewani,Daging Ruminansia,13.97,2018,Protein
+Pangan Hewani,Daging Unggas,19.73,2018,Protein
+Pangan Hewani,Telur,19.73,2018,Protein
+Pangan Hewani,Susu,8.49,2018,Protein
+Pangan Hewani,Ikan,56.71,2018,Protein
+Minyak dan Lemak,Minyak Kelapa,2.19,2018,Lemak
+Minyak dan Lemak,Minyak Sawit,23.84,2018,Lemak
+Minyak dan Lemak,Minyak Lainnya,0.82,2018,Lemak
+Buah/biji berminyak,Kelapa,3.29,2018,Lemak
+Buah/biji berminyak,Kemiri,0.55,2018,Lemak
+Kacang-kacangan,Kedelai,24.93,2018,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2018,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2018,Lemak
+Kacang-kacangan,Kacang Lain,0.55,2018,Lemak
+Gula,Gula Pasir,19.18,2018,Karbohidrat
+Gula,Gula Merah,1.64,2018,Karbohidrat
+Sayuran dan buah,Sayur,147.95,2018,Serat
+Sayuran dan buah,Buah,100,2018,Serat
+Lain-lain,Lain-lain,92.6,2018,Lainnya
+Lain-lain,Minuman,84.66,2018,Lainnya
+Lain-lain,Bumbu-Bumbuan,7.95,2018,Lainnya
+Padi-padian,Beras,260,2019,Karbohidrat
+Padi-padian,Jagung,4.66,2019,Karbohidrat
+Padi-padian,Terigu,48.77,2019,Karbohidrat
+Umbi-umbian,Singkong,23.56,2019,Karbohidrat
+Umbi-umbian,Ubi Jalar,9.59,2019,Karbohidrat
+Umbi-umbian,Kentang,7.95,2019,Karbohidrat
+Umbi-umbian,Sagu,0.82,2019,Karbohidrat
+Umbi-umbian,Umbi Lainnya,1.64,2019,Karbohidrat
+Pangan Hewani,Daging Ruminansia,10.41,2019,Protein
+Pangan Hewani,Daging Unggas,20.55,2019,Protein
+Pangan Hewani,Telur,19.73,2019,Protein
+Pangan Hewani,Susu,8.22,2019,Protein
+Pangan Hewani,Ikan,58.63,2019,Protein
+Minyak dan Lemak,Minyak Kelapa,1.92,2019,Lemak
+Minyak dan Lemak,Minyak Sawit,24.11,2019,Lemak
+Minyak dan Lemak,Minyak Lainnya,1.1,2019,Lemak
+Buah/biji berminyak,Buah/biji berminyak,3.84,2019,Lemak
+Buah/biji berminyak,Kelapa,3.29,2019,Lemak
+Buah/biji berminyak,Kemiri,0.55,2019,Lemak
+Kacang-kacangan,Kedelai,23.84,2019,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2019,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2019,Lemak
+Kacang-kacangan,Kacang Lain,0.55,2019,Lemak
+Gula,Gula Pasir,18.63,2019,Karbohidrat
+Gula,Gula Merah,1.64,2019,Karbohidrat
+Sayuran dan buah,Sayur,150.41,2019,Serat
+Sayuran dan buah,Buah,93.97,2019,Serat
+Lain-lain,Minuman,86.3,2019,Lainnya
+Lain-lain,Bumbu-Bumbuan,7.95,2019,Lainnya
+Padi-padian,Beras,257.53,2020,Karbohidrat
+Padi-padian,Jagung,4.93,2020,Karbohidrat
+Padi-padian,Terigu,46.85,2020,Karbohidrat
+Umbi-umbian,Singkong,23.56,2020,Karbohidrat
+Umbi-umbian,Ubi Jalar,8.77,2020,Karbohidrat
+Umbi-umbian,Kentang,6.85,2020,Karbohidrat
+Umbi-umbian,Sagu,0.82,2020,Karbohidrat
+Umbi-umbian,Umbi Lainnya,1.1,2020,Karbohidrat
+Pangan Hewani,Daging Ruminansia,10.41,2020,Protein
+Pangan Hewani,Daging Unggas,21.37,2020,Protein
+Pangan Hewani,Telur,20,2020,Protein
+Pangan Hewani,Susu,8.22,2020,Protein
+Pangan Hewani,Ikan,58.36,2020,Protein
+Minyak dan Lemak,Minyak Kelapa,1.64,2020,Lemak
+Minyak dan Lemak,Minyak Sawit,24.93,2020,Lemak
+Minyak dan Lemak,Minyak Lainnya,1.1,2020,Lemak
+Buah/biji berminyak,Kelapa,3.01,2020,Lemak
+Buah/biji berminyak,Kemiri,0.55,2020,Lemak
+Kacang-kacangan,Kedelai,22.47,2020,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2020,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2020,Lemak
+Kacang-kacangan,Kacang Lain,0.82,2020,Lemak
+Gula,Gula Pasir,18.36,2020,Karbohidrat
+Gula,Gula Merah,1.64,2020,Karbohidrat
+Sayuran dan buah,Sayur,143.29,2020,Serat
+Sayuran dan buah,Buah,88.49,2020,Serat
+Lain-lain,Minuman,84.66,2020,Lainnya
+Lain-lain,Bumbu-Bumbuan,7.95,2020,Lainnya
+Padi-padian,Beras,258.63,2021,Karbohidrat
+Padi-padian,Jagung,4.11,2021,Karbohidrat
+Padi-padian,Terigu,46.3,2021,Karbohidrat
+Umbi-umbian,Singkong,28.77,2021,Karbohidrat
+Umbi-umbian,Ubi Jalar,10.41,2021,Karbohidrat
+Umbi-umbian,Kentang,7.67,2021,Karbohidrat
+Umbi-umbian,Sagu,0.82,2021,Karbohidrat
+Umbi-umbian,Umbi Lainnya,1.92,2021,Karbohidrat
+Pangan Hewani,Daging Ruminansia,9.86,2021,Protein
+Pangan Hewani,Daging Unggas,22.74,2021,Protein
+Pangan Hewani,Telur,20.55,2021,Protein
+Pangan Hewani,Susu,7.67,2021,Protein
+Pangan Hewani,Ikan,61.37,2021,Protein
+Minyak dan Lemak,Minyak Kelapa,1.92,2021,Lemak
+Minyak dan Lemak,Minyak Sawit,26.85,2021,Lemak
+Minyak dan Lemak,Minyak Lainnya,1.1,2021,Lemak
+Buah/biji berminyak,Kelapa,3.01,2021,Lemak
+Buah/biji berminyak,Kemiri,0.82,2021,Lemak
+Kacang-kacangan,Kedelai,23.29,2021,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2021,Lemak
+Kacang-kacangan,Kacang Hijau,0.82,2021,Lemak
+Kacang-kacangan,Kacang Lain,0.55,2021,Lemak
+Gula,Gula Pasir,18.9,2021,Karbohidrat
+Gula,Gula Merah,1.92,2021,Karbohidrat
+Sayuran dan buah,Sayur,149.59,2021,Serat
+Sayuran dan buah,Buah,76.71,2021,Serat
+Lain-lain,Minuman,69.86,2021,Lainnya
+Lain-lain,Bumbu-Bumbuan,8.49,2021,Lainnya
+Padi-padian,Beras,256.16,2022,Karbohidrat
+Padi-padian,Jagung,3.84,2022,Karbohidrat
+Padi-padian,Terigu,44.66,2022,Karbohidrat
+Umbi-umbian,Singkong,26.58,2022,Karbohidrat
+Umbi-umbian,Ubi Jalar,9.59,2022,Karbohidrat
+Umbi-umbian,Kentang,8.77,2022,Karbohidrat
+Umbi-umbian,Sagu,0.82,2022,Karbohidrat
+Umbi-umbian,Umbi Lainnya,2.19,2022,Karbohidrat
+Pangan Hewani,Daging Ruminansia,10.68,2022,Protein
+Pangan Hewani,Daging Unggas,24.38,2022,Protein
+Pangan Hewani,Telur,20.82,2022,Protein
+Pangan Hewani,Susu,7.4,2022,Protein
+Pangan Hewani,Ikan,63.01,2022,Protein
+Minyak dan Lemak,Minyak Kelapa,1.1,2022,Lemak
+Minyak dan Lemak,Minyak Sawit,26.03,2022,Lemak
+Minyak dan Lemak,Minyak Lainnya,0.82,2022,Lemak
+Buah/biji berminyak,Buah/biji berminyak,3.56,2022,Lemak
+Buah/biji berminyak,Kelapa,2.74,2022,Lemak
+Buah/biji berminyak,Kemiri,0.82,2022,Lemak
+Kacang-kacangan,Kedelai,25.48,2022,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2022,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2022,Lemak
+Kacang-kacangan,Kacang Lain,0.55,2022,Lemak
+Gula,Gula Pasir,17.81,2022,Karbohidrat
+Gula,Gula Merah,1.92,2022,Karbohidrat
+Sayuran dan buah,Sayur,152.33,2022,Serat
+Sayuran dan buah,Buah,85.21,2022,Serat
+Lain-lain,Minuman,69.04,2022,Lainnya
+Lain-lain,Bumbu-Bumbuan,9.86,2022,Lainnya
+Padi-padian,Beras,256.99,2023,Karbohidrat
+Padi-padian,Jagung,3.84,2023,Karbohidrat
+Padi-padian,Terigu,46.3,2023,Karbohidrat
+Umbi-umbian,Singkong,27.4,2023,Karbohidrat
+Umbi-umbian,Ubi Jalar,9.86,2023,Karbohidrat
+Umbi-umbian,Kentang,7.95,2023,Karbohidrat
+Umbi-umbian,Sagu,0.82,2023,Karbohidrat
+Umbi-umbian,Umbi Lainnya,2.47,2023,Karbohidrat
+Pangan Hewani,Daging Ruminansia,11.23,2023,Protein
+Pangan Hewani,Daging Unggas,24.93,2023,Protein
+Pangan Hewani,Telur,19.73,2023,Protein
+Pangan Hewani,Susu,7.12,2023,Protein
+Pangan Hewani,Ikan,60.82,2023,Protein
+Minyak dan Lemak,Minyak Kelapa,0.82,2023,Lemak
+Minyak dan Lemak,Minyak Sawit,26.3,2023,Lemak
+Minyak dan Lemak,Minyak Lainnya,1.1,2023,Lemak
+Buah/biji berminyak,Kelapa,3.01,2023,Lemak
+Buah/biji berminyak,Kemiri,0.55,2023,Lemak
+Kacang-kacangan,Kedelai,21.37,2023,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2023,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2023,Lemak
+Kacang-kacangan,Kacang Lain,0.27,2023,Lemak
+Gula,Gula Pasir,16.16,2023,Karbohidrat
+Gula,Gula Merah,1.64,2023,Karbohidrat
+Sayuran dan buah,Sayur,151.78,2023,Serat
+Sayuran dan buah,Buah,88.77,2023,Serat
+Lain-lain,Minuman,73.42,2023,Lainnya
+Lain-lain,Bumbu-Bumbuan,9.32,2023,Lainnya
+Padi-padian,Beras,252.33,2024,Karbohidrat
+Padi-padian,Jagung,4.11,2024,Karbohidrat
+Padi-padian,Terigu,44.11,2024,Karbohidrat
+Umbi-umbian,Singkong,23.29,2024,Karbohidrat
+Umbi-umbian,Ubi Jalar,8.49,2024,Karbohidrat
+Umbi-umbian,Kentang,6.85,2024,Karbohidrat
+Umbi-umbian,Sagu,1.64,2024,Karbohidrat
+Umbi-umbian,Umbi Lainnya,0.82,2024,Karbohidrat
+Pangan Hewani,Daging Ruminansia,9.04,2024,Protein
+Pangan Hewani,Daging Unggas,27.12,2024,Protein
+Pangan Hewani,Telur,19.73,2024,Protein
+Pangan Hewani,Susu,7.12,2024,Protein
+Pangan Hewani,Ikan,61.64,2024,Protein
+Minyak dan Lemak,Minyak Kelapa,1.1,2024,Lemak
+Minyak dan Lemak,Minyak Sawit,26.03,2024,Lemak
+Minyak dan Lemak,Minyak Lainnya,1.1,2024,Lemak
+Buah/biji berminyak,Kelapa,2.74,2024,Lemak
+Buah/biji berminyak,Kemiri,0.55,2024,Lemak
+Kacang-kacangan,Kedelai,24.93,2024,Lemak
+Kacang-kacangan,Kacang Tanah,0.82,2024,Lemak
+Kacang-kacangan,Kacang Hijau,1.1,2024,Lemak
+Kacang-kacangan,Kacang Lain,0.55,2024,Lemak
+Gula,Gula Pasir,15.07,2024,Karbohidrat
+Gula,Gula Merah,1.37,2024,Karbohidrat
+Sayuran dan buah,Sayur,142.74,2024,Serat
+Sayuran dan buah,Buah,101.92,2024,Serat
+Lain-lain,Minuman,76.44,2024,Lainnya
+Lain-lain,Bumbu-Bumbuan,9.04,2024,Lainnya
